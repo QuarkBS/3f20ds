@@ -14,3 +14,4 @@ function Min(){
     }
     return min;
 }
+//complejidad = n^2
