@@ -12,3 +12,4 @@ function ExistenRepetidos(){
     }
     return bandera;
 }
+//complejidad = n^2
